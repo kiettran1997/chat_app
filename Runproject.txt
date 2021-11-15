@@ -1,0 +1,18 @@
+
+pip install Django
+pip install django-crispy-forms
+python manage.py migrate
+python manage.py runserver
+Open web browser  http://localhost:8000/ or http://127.0.0.1:8000/
+
+SuperUser
+Username: admin
+Password: admin123
+
+Sample User 1
+Username: jsmith
+Password: test12345
+
+Sample User 2
+Username: cblake
+Password: test12345
